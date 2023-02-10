@@ -1,1 +1,1 @@
-ALX-is_Amazing
+alx-is_amazing
